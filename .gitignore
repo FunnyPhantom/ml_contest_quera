@@ -1,5 +1,8 @@
-/dataset.csv
-q1/
-q2/
-q3/
-q4/
+q1/*
+!q1/output.csv
+q2/*
+!q2/output.csv
+q3/*
+!q3/output.csv
+q4/*
+!q4/output.csv
